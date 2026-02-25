@@ -1,27 +1,45 @@
-# Covid-Data-Exploration-SQL
+# Covid-19 Data Exploration Using SQL
 
-SQL data exploration project using COVID-19 dataset. Includes joins, aggregations, CTEs, and window functions.
+This project explores global COVID-19 data using SQL Server to analyze infection trends, mortality rates, and vaccination progress across different countries.
+
+---
 
 ## 🎯 Problem Statement
-The goal of this project is to analyze global COVID-19 data to understand infection trends, death rates, and vaccination progress across countries.
+
+The objective of this project is to analyze worldwide COVID-19 data to uncover meaningful insights related to case growth, death percentages, and vaccination trends. The analysis focuses on understanding the impact of the pandemic across countries using structured SQL queries.
+
+---
 
 ## ❓ Business Questions Explored
-- What percentage of confirmed cases resulted in death?
-- Which countries had the highest infection rate relative to population?
-- How did vaccination numbers grow over time?
+
+- What percentage of confirmed COVID-19 cases resulted in death?
+- Which countries had the highest infection rate relative to their population?
+- How did global case numbers evolve over time?
+- How did vaccination numbers grow over time by country?
 - What is the rolling total of vaccinations per country?
 
-## 🛠 Tools Used
-- SQL Server
-- Microsoft Excel
-- Window Functions
-- CTEs
-- Joins
-- Aggregate Functions
+---
+
+## 🛠 Tools & Technologies Used
+
+- SQL Server  
+- Microsoft Excel (Data Source)  
+- T-SQL  
+- Window Functions  
+- Common Table Expressions (CTEs)  
+- Temporary Tables  
+- Views  
+- Aggregate Functions  
+- Joins  
+
+---
 
 ## 💡 Skills Demonstrated
-- Data cleaning and transformation
-- Analytical problem solving
-- Aggregation and grouping
-- Advanced SQL queries
-- Use of window functions (SUM OVER, PARTITION BY)
+
+- Data cleaning and preparation  
+- Data aggregation and grouping  
+- Calculating percentages and rates  
+- Time-series trend analysis  
+- Advanced SQL techniques (Window Functions, CTEs)  
+- Creating reusable views for reporting  
+- Structured analytical problem-solving  
