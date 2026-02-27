@@ -4,13 +4,13 @@ This project explores global COVID-19 data using SQL Server to analyze infection
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 The objective of this project is to analyze worldwide COVID-19 data to uncover meaningful insights related to case growth, death percentages, and vaccination trends. The analysis focuses on understanding the impact of the pandemic across countries using structured SQL queries.
 
 ---
 
-## ❓ Business Questions Explored
+## Business Questions Explored
 
 - What percentage of confirmed COVID-19 cases resulted in death?
 - Which countries had the highest infection rate relative to their population?
@@ -20,7 +20,7 @@ The objective of this project is to analyze worldwide COVID-19 data to uncover m
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - SQL Server  
 - Microsoft Excel (Data Source)  
@@ -34,7 +34,7 @@ The objective of this project is to analyze worldwide COVID-19 data to uncover m
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data cleaning and preparation  
 - Data aggregation and grouping  
